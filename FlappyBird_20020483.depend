@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1619414190 source:c:\users\hi\desktop\flappybird_20020483\baseobject.cpp
+	"BaseObject.h"
+	"CommonFuntion.h"
+	<string>
+
+1619425481 c:\users\hi\desktop\flappybird_20020483\baseobject.h
+	"CommonFuntion.h"
+
+1619416365 c:\users\hi\desktop\flappybird_20020483\commonfuntion.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<windows.h>
+	<vector>
+	<string>
+	"BaseObject.h"
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	"Text.h"
+
+1619415428 c:\users\hi\desktop\flappybird_20020483\text.h
+	"BaseObject.h"
+	<string>
+	<SDL_ttf.h>
+
+1619415495 source:c:\users\hi\desktop\flappybird_20020483\commonfuntion.cpp
+	"CommonFuntion.h"
+	"BaseObject.h"
+	"Text.h"
+
+1619414287 source:c:\users\hi\desktop\flappybird_20020483\mainobject.cpp
+	"MainObject.h"
+	"CommonFuntion.h"
+	"BaseObject.h"
+
+1619414171 c:\users\hi\desktop\flappybird_20020483\mainobject.h
+	"CommonFuntion.h"
+	"BaseObject.h"
+
+1619415508 source:c:\users\hi\desktop\flappybird_20020483\text.cpp
+	"Text.h"
+	"MainObject.h"
+	"BaseObject.h"
+
+1619414059 source:c:\users\hi\desktop\flappybird_20020483\blockobject.cpp
+	"BlockObject.h"
+
+1619414000 c:\users\hi\desktop\flappybird_20020483\blockobject.h
+	"BaseObject.h"
+	"CommonFuntion.h"
+
+1619496445 source:c:\users\hi\desktop\flappybird_20020483\main.cpp
+	"CommonFuntion.h"
+	"BaseObject.h"
+	<string>
+	"MainObject.h"
+	"BlockObject.h"
+	"Time.h"
+	"Text.h"
+
